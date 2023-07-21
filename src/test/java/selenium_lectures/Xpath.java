@@ -12,7 +12,7 @@ public class Xpath {
 
 	public static void main(String[] args) throws InterruptedException {
 
-// webdriver manager
+// webdriver manager is used to manage....
 		WebDriverManager.chromedriver().setup();
 		
 		//WebDriver driver = new ChromeDriver();
