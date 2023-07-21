@@ -12,7 +12,7 @@ public class Xpath {
 
 	public static void main(String[] args) throws InterruptedException {
 
-// hi
+// webdriver manager
 		WebDriverManager.chromedriver().setup();
 		
 		//WebDriver driver = new ChromeDriver();
